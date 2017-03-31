@@ -119,8 +119,16 @@ section form p {
     padding-top: 15px;
 }
 
+section form p a {
+    color: gray;
+}
+
 footer p {
     color: white;
     margin-top: 20px;
     text-align: center;
+}
+
+footer p a {
+    color: white;
 }
